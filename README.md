@@ -44,4 +44,4 @@ The synthetic Northwind Kettle fixture names lot NK-442 in Morocco. The recorded
 ## Boundaries
 There is no issuer allowlist, freshness deadline or appeal transition. Malformed model output or unavailable evidence may fail execution rather than produce INSUFFICIENT. Rationale and confidence are not independently bound by the custom validator. Do not use the result as a substitute for an official safety notice.
 
-Deployment and network-run files are generated after execution; use the paths referenced above to inspect the current evidence.
+[Case address](https://explorer-studio.genlayer.com/address/0x919FC8152EB1870CD608Df1d28De87fe2DFFb500) — [creation transaction](https://explorer-studio.genlayer.com/tx/0xef973abc96ea3dca02a82374ca315c0af8f923188adda8ad52eef277c394f888). The recorded source revision is `0ea7932`.

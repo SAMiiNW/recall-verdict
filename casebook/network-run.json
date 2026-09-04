@@ -1,0 +1,32 @@
+{
+  "caseId": "RV-1788540658",
+  "transactions": {
+    "open": "0x3ab43e2963e54d3cb4cf08c48b42c5abb68f1f37fe8e426c1b2745637f00e2d2",
+    "adjudicate": "0xa4304d56c0794aa8b5aa7fc01b2d0d241699b957a3341d2d2569527591259ce2"
+  },
+  "state": {
+    "digests": [
+      "646ea05545e268b4f653f3ae272c0c6f8bb02c59745f95af9fde2940ab7582ba",
+      "bbc0a30fc33d4bae694296a0ac9ab6d52fc9099f783e58fc90c90a6c3817d425"
+    ],
+    "id": "RV-1788540658",
+    "lot": "NK-442",
+    "owner": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+    "product": "Northwind Kettle",
+    "region": "Morocco",
+    "sources": [
+      "https://raw.githubusercontent.com/SAMiiNW/recall-verdict/0ea793286f97d149432fddaa7539c4b0c9e9a76f/casebook/notices/regulator-notice.txt",
+      "https://raw.githubusercontent.com/SAMiiNW/recall-verdict/0ea793286f97d149432fddaa7539c4b0c9e9a76f/casebook/notices/manufacturer-notice.txt"
+    ],
+    "status": "FINAL"
+  },
+  "verdict": {
+    "action": "RECALL",
+    "affectedLots": [
+      "NK-442"
+    ],
+    "confidence": 1,
+    "conflictSourceIndexes": [],
+    "rationale": "Both cited records (source 0 and 1) confirm recall RV-2026-17 for Northwind Kettle lot NK-442 in Morocco due to thermal cutoff failure."
+  }
+}
